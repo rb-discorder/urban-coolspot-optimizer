@@ -125,12 +125,12 @@ def solution_glouton(instance : str, nom_fichier_solution : str):
             
 
             
+# a finir
 
 
 
 
-
-        
+ 
 
 
 
